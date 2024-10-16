@@ -1,18 +1,18 @@
 body {
-    font-family: Arial, sans-serif; /* Sets the font */
-    background-color: #0af539; /* Light gray background */
-    color: #f7eeee; /* Dark text color */
+    font-family: Arial, sans-serif;
+    background-color: #111111; /* Light gray background */
+    color: #dcd4d4; /* Dark text color */
     margin: 0; /* Removes default margin */
     padding: 20px; /* Adds padding around the content */
 }
 
 h1 {
-    color: #060606; /* Blue color for main heading */
+    color: #c3e41e; /* Blue color for main heading */
     text-align: center; /* Center aligns the heading */
 }
 
 h2 {
-    color: #f5f7fa; /* Darker blue for subheadings */
+    color: #6fa10a; /* Darker blue for subheadings */
     margin-top: 20px; /* Adds space above the heading */
 }
 
@@ -26,7 +26,7 @@ ul {
 }
 
 a {
-    color: #e30e11; /* Link color */
+    color: #e70f1a; /* Link color */
     text-decoration: none; /* Removes underline from links */
 }
 
